@@ -2,6 +2,7 @@
 Curso Python
 Este es el archivo README donde se detalla lo que se debe realizar en el ejercicio1 tanto en su parte 1 como en su parte 2
 EJERCICIO 1
+
 Parte 1 : Crear un código sencillo capaz de mostrar en pantalla lo siguiente:
 
 Empezando a trabajar con Python Realizado por: “Su Nombre”
